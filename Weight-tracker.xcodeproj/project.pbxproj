@@ -120,6 +120,7 @@
 				769F07AA236B010F002ED7F3 /* View */,
 				769F07AB236B0123002ED7F3 /* Helpers */,
 				769F07A5236AF1AB002ED7F3 /* Models */,
+				76AF93232370225E000B1A28 /* SettingTableViewCell.swift */,
 				7637500A2369894A0058EB20 /* Main.storyboard */,
 				7637500D2369894E0058EB20 /* Assets.xcassets */,
 				7637500F2369894E0058EB20 /* LaunchScreen.storyboard */,
@@ -134,7 +135,6 @@
 			isa = PBXGroup;
 			children = (
 				769F07A6236AF22F002ED7F3 /* WeightModel.swift */,
-				76AF93232370225E000B1A28 /* SettingTableViewCell.swift */,
 				767810D82372D08B001093B0 /* SettingsItems.swift */,
 			);
 			path = Models;
